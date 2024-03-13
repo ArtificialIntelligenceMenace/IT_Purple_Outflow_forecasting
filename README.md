@@ -1,6 +1,7 @@
 # IT_Purple_Outflow_forecasting
 
 Проект по прогнозированию оттока зарплатных клиентов ФЛ от банка использует данные о поведении клиентов для предсказания момента, когда клиент перестанет получать зарплату на карту банка. Это помогает банку предотвратить отток клиентов и увеличить удержание клиентов. Используя машинное обучение, проект идентифицирует клиентов, которые могут уйти, и предлагает им персонализированные предложения для удержания.
+***
 ![Logo project](Logo.jpg)
 ***
 ## Installation
@@ -32,5 +33,6 @@ Tensorflow|*pip install tensorflow*|[Source](https://www.tensorflow.org/install?
 Numpy|*pip install numpy*|[Source](https://pypi.org/project/numpy/)
 Pandas|*pip install pandas*|[Source](https://pypi.org/project/pandas/)
 Imblearn|*pip install imblearn*|[Source](https://pypi.org/project/imblearn/)
+***
 ## Запуск проекта
 После установки всех зависимостей начинаем запуск все код-блоков в блокноте послеждовательно
