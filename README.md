@@ -34,4 +34,4 @@ Pandas|*pip install pandas*|[Source](https://pypi.org/project/pandas/)
 Imblearn|*pip install imblearn*|[Source](https://pypi.org/project/imblearn/)
 ***
 ## Запуск проекта
-После установки всех зависимостей начинаем запуск все код-блоков в блокноте послеждовательно
+После установки всех зависимостей начинаем запуск всех код-блоков в блокноте последовательно
