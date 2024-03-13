@@ -5,7 +5,6 @@
 ![Logo project](Logo.jpg)
 ***
 ## Installation
-___
 ##### Язык программирования
 * Python 3.10
 ## Installation steps
